@@ -1,0 +1,18 @@
+why jenkins are mostly used tool in?
+jenkins are mostly used for it's pipe lines and it has a powerfull plugins
+
+jenkins archestructure?
+source code management > jenkins server > maven build > testing > production server
+
+what are the jenkins pipelines?
+1. Declarative (mostly used tool now in recent times)
+2. scripted (mostly used in the past)
+
+jenkins flow of work?
+git > maven > jenkins > aws > sonarqubes
+
+
+jenkins is the main tool which involves git & maven itself in the jenkins
+
+CI - continous integration (git > maven > jenkins > sonarqubes)
+CD - continous deployment or delivery (aws > ansible > kubernetes etc...)
